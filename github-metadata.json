@@ -1,0 +1,19 @@
+{
+  "name": "ai-testing-evidence-guide",
+  "description": "Frame AI testing and LLM evaluation questions about acceptable behaviour, evidence ownership, prompt injection and human oversight.",
+  "topics": [
+    "ai-testing",
+    "llm-evaluation",
+    "ai-quality",
+    "responsible-ai",
+    "quality-assurance",
+    "digital-products",
+    "generative-ai"
+  ],
+  "visibility": "private-until-approved",
+  "has_issues": false,
+  "has_wiki": false,
+  "funding": "not-enabled",
+  "homepage": null,
+  "notes": "Proposed metadata only; no GitHub repository created. Replace homepage only with an approved URL."
+}

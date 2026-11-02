@@ -1,0 +1,52 @@
+{
+  "schema": "platform-advisory.provenance.v1",
+  "created_at": "2026-11-02T15:04:50.777Z",
+  "record_type": "local-private-inception",
+  "owner_ref": "unassigned-rights-holder",
+  "project_id": "5353b136-c92b-47da-8e66-f7b82a3fd9ae",
+  "project_token": "KQNgPuvjezG7As1-zU7DPB68xM1soPwfRG5WnYMKFOg",
+  "rights_profile": "private-provisional",
+  "license_sha256": "05e4eebc9e6a4ef3ff2c2f6c2c5cd27f635e4ec59d0578df0105cbff29b52603",
+  "tracked_tree_sha256": "e141f9d655582a74d31e184f8a0c909b0135c9b7fc704d15647360ba0789d3e5",
+  "tracked_file_count": 29,
+  "files_sha256": {
+    ".gitattributes": "58731bfc1e660d66fc20884ca9a22aa5e6a5d00c41479a48ce359a6a721d1e2b",
+    ".github/ISSUE_TEMPLATE/config.yml": "1f103c6a9dd07cd13a9a6f17ace6b813f47747eb9cb7e00488cb2073caaf91bb",
+    ".gitignore": "ce8781496db136165aa6d1edbe748926fb95d20b4b859dae900ed90a795ee3e1",
+    "AGENTS.md": "022fc822eceec16ff12229d774506e25d808ad9c839a63f0bb83cf889a94e4c2",
+    "CONTRIBUTING.md": "e66db881aef9d5c720fee0414a0839da7b9a534994297d724a917e76cb664149",
+    "LICENSE": "05e4eebc9e6a4ef3ff2c2f6c2c5cd27f635e4ec59d0578df0105cbff29b52603",
+    "LICENSE-DECISION.md": "8545b887d3f72dd416037a03495a0ae5232ce5fcfc16dec30ee7d8a47299c0e7",
+    "NOTICE": "f5bf4ba67c27a16752c1798ee29ebbd56cfd5b6abbff0a6b8eb26eaed2677eab",
+    "PUBLISHING.md": "313d8455b1c6ffec080d533766e98a5c4bc90537c6423f5c07593ee47059c3ab",
+    "README.md": "1c8977c462b065980bed310f77f84870258173ace6fdc6cb515068c1010aa079",
+    "SECURITY.md": "27878adcb24148e6a1753892270dddf70b0792ff09bd66493247c24d0c85c992",
+    "SOURCES.md": "bee899638a0fbbd2a82a378563dbde1e4668f57fa1e666176b5cc3d63cc648f5",
+    "docs/assets/icon.svg": "f65e6cc8bcdd31810ee956dda0caf3be60becd2b96ae2a2717f8a913b638a427",
+    "docs/assets/share.svg": "5942fc3cbf91a1c0dc704c2af9226e7a10d26d401aeed188d13d2871a1df9d28",
+    "docs/assets/site.css": "93509e685f9137e709b052cf66e7a6abe6eb872cbdb51fc95d37d203575a0a93",
+    "docs/assets/tool.js": "f296d3b72c3fabfc8cdfa75e1aff1aa08232652685e1abd955d7579442e55f7a",
+    "docs/contact.html": "6910b711b610f242d683c4ca56cddbadb4612a9928f240199f13c4b559c2305b",
+    "docs/guide.html": "ae9d27cf56d9b2425187317a59d8145ce6294d2b5ea09a703139b8765b935742",
+    "docs/index.html": "b4e1c32cbcdb11c95b619cb57dd0ba4f7078b12af34a2f4976436d1d45320dd3",
+    "docs/privacy.html": "d62832ea09860ba8c05f1d3ba340c84da38efec02fac9fab3854e7c18452b561",
+    "docs/references.html": "bf9eb88a72b85696f16643b224a06ef8b2a9f30570c342e155fadc6b642ba35c",
+    "docs/robots.txt": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1",
+    "docs/tool.html": "638dfe61a299e58ea157369fd596f965853f610e369b987df7b1d378a708a2bc",
+    "github-metadata.json": "0867a330d806ba03bde9b8770e4cfa463075f5e3c0684ae9089014d2eb1f59ee",
+    "package.json": "d8a6a40fe4f88d009473dfb1301291363487da37c23c8fc0f43229dcc34d27d5",
+    "scripts/configure.mjs": "78376fa66bba82f2fcfcc8352262993aae270e719c8e8c8c4b17ffcbe18eb843",
+    "scripts/serve.mjs": "0ba2ac3de719b6499a9dc89af51f6049ca116d59def85d3e09f8160e5f2062d1",
+    "site-config.json": "4167eb612364151e8f3591ca6822b12e6e56bf2f1f07cddfd35ab7f24bce461a",
+    "skills/ai-testing-evidence-guide/SKILL.md": "5f326236a25db43e9e0a4115e4dc22d3fa32120fce0592b2e095a55a9b97e184"
+  },
+  "signing": {
+    "status": "pending-user-controlled-signing-input",
+    "algorithm": null
+  },
+  "encryption": {
+    "status": "pending-user-public-recipient-and-approved-identity",
+    "algorithm": null
+  },
+  "limitations": "Unsigned local integrity record. Public correlation token, not a credential. Not DRM, conclusive ownership proof or guaranteed tracing. Preserve this record and generate a separate release record after final edits."
+}

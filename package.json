@@ -1,0 +1,14 @@
+{
+  "name": "ai-testing-evidence-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Frame AI testing and LLM evaluation questions about acceptable behaviour, evidence ownership, prompt injection and human oversight.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "preview": "node scripts/serve.mjs",
+    "configure": "node scripts/configure.mjs"
+  },
+  "license": "UNLICENSED"
+}
