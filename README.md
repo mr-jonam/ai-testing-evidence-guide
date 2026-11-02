@@ -62,11 +62,11 @@ Primary topic: **AI testing evidence**.
 
 Related search phrases: AI testing enterprise platforms; LLM evaluation evidence; generative AI quality assurance; AI feature acceptance. These are editorial keyword hypotheses, not measured search-volume claims.
 
-Suggested GitHub topics: `ai-testing`, `llm-evaluation`, `ai-quality`, `responsible-ai`, `quality-assurance`, `digital-products`, `generative-ai`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); nothing has been applied on GitHub.
+Suggested GitHub topics: `ai-testing`, `llm-evaluation`, `ai-quality`, `responsible-ai`, `quality-assurance`, `digital-products`, `generative-ai`. Use only topics describing the actual content. Repository description and topics are provided in [github-metadata.json](github-metadata.json); description and topics are configured on the private GitHub repository.
 
 ## Publication status
 
-**Local preparation only.** Public contact, domain, legal holder, final rights and hosting notice need approval. Draft pages use `noindex, nofollow` and robots exclusion. Final configuration creates canonical URLs, social metadata, structured data, robots and sitemap; it does not deploy anything. See [PUBLISHING.md](PUBLISHING.md). Use an approved hosting destination for the commercial landing site; review GitHub Pages usage limits.
+**Private GitHub preparation.** Repository: [ai-testing-evidence-guide](https://github.com/mr-jonam/ai-testing-evidence-guide). Public visibility and a website deployment have not been enabled. Public contact, domain, legal holder, final rights and hosting notice need approval. Draft pages use `noindex, nofollow` and robots exclusion. Final configuration creates canonical URLs, social metadata, structured data, robots and sitemap; it does not deploy anything. See [PUBLISHING.md](PUBLISHING.md). Use an approved hosting destination for the commercial landing site; review GitHub Pages usage limits.
 
 ## Sources and attribution
 
