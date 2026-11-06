@@ -6,6 +6,14 @@ Frame AI testing and LLM evaluation questions about acceptable behaviour, eviden
 
 **Decision in focus:** What evidence and decision ownership are needed to discuss acceptable AI behaviour?
 
+## See a first result
+
+**Problem:** A convincing AI demo lacks a stated unacceptable outcome and a review owner.
+
+**Example result:** Who can challenge or stop an answer that conflicts with a business rule?
+
+[Walk through the fictional example](examples/FIRST-RESULT.md), then [read the decision guide](GUIDE.md). Both open directly on GitHub, without installation or a contact request. The result is a question for the accountable owner; it is not a finding about a real system.
+
 <!-- publication:links:start -->
 [Read the guide on GitHub](GUIDE.md) · [Browse all eight guides](https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/REPOSITORIES.md) · [Discuss professional support](https://www.linkedin.com/in/manoj-rollo/)
 
@@ -22,7 +30,11 @@ Frame AI testing and LLM evaluation questions about acceptable behaviour, eviden
 
 Open `docs/index.html` in a browser or use the local preview:
 
+Download the repository, or clone it and start the optional local preview:
+
 ```sh
+git clone https://github.com/mr-jonam/ai-testing-evidence-guide.git
+cd ai-testing-evidence-guide
 npm run preview
 ```
 
@@ -76,6 +88,12 @@ Suggested GitHub topics: `ai-testing`, `llm-evaluation`, `ai-quality`, `responsi
 - [OWASP GenAI — LLM01:2025 Prompt Injection](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)
 
 Read [SOURCES.md](SOURCES.md) for verification status. References are linked, not republished. Product names identify subject matter; no vendor affiliation, endorsement, logo or partner status is claimed.
+
+## Corrections and future updates
+
+For a broken reference or unclear passage, follow [editorial feedback guidance](CONTRIBUTING.md). Include the page, the confusing sentence and a public source where relevant. External contributions are currently closed.
+
+For future public QA resources, follow [mr-jonam on GitHub](https://github.com/mr-jonam) using the profile's Follow button. Updates appear when material is reviewed; no release schedule is promised.
 
 ## Licence and provenance
 
