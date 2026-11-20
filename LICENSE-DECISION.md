@@ -27,3 +27,8 @@ The inception and private-transfer manifests remain unchanged. An additive publi
 New original README wording, synthetic examples and editorial guidance use LicenseRef-Proprietary under the existing LICENSE; no broader reuse grant. Public references are linked, not copied. No third-party runtime code, client evidence or externally submitted contribution is introduced. Existing copyright, NOTICE, funding, contribution policy and inception provenance remain in force. These changes improve the reading journey without claiming test execution, model evaluation, adoption or guaranteed follower growth.
 
 This is a scoped component review. It does not independently verify legal title, employer agreements or the full historical dependency inventory. An additive unsigned record identifies changed files and the licence hash; no private key, signature or encrypted identity is created without user-controlled inputs.
+
+
+## Release decision CTA review — 2026-11-20
+
+The revised CTA and examples are original editorial content under the existing LicenseRef-Proprietary. The profile button reuses the original visual asset. The copy links to public guides and the existing LinkedIn contact. It introduces no client evidence, third-party asset, runtime dependency or telemetry. The existing LICENSE, NOTICE and GitHub platform terms apply. An unsigned integrity snapshot records the files in scope.

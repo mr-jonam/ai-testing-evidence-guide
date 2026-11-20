@@ -1,0 +1,32 @@
+{
+  "schema": "mr-jonam.release-cta-integrity.v1",
+  "change_id": "ccafd4ef-f53f-4e25-86ea-ccb37d27898c",
+  "date": "2026-11-20",
+  "source_base_commit": "f54c6328fc9d1475c49b091b611ddc5ee93b9b1e",
+  "existing_identity_record": ".provenance/manifest.json",
+  "representation": "UTF-8 text with CRLF normalised to LF",
+  "license": {
+    "path": "LICENSE",
+    "sha256": "0c23a6c966f7cfa13ced7e294a7c019f81b8521e05f3bab6f883970b13f0b085"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "41e56ec455fe63840d6aaedee3344c303d9198599f6dc04cd56217c1f6f6a38f"
+    },
+    {
+      "path": "GUIDE.md",
+      "sha256": "04e70d330235c74a12c4428069e0e1e7c6952e4b0b0ae6d4374a6492a47c8927"
+    },
+    {
+      "path": "docs/guide.html",
+      "sha256": "b520fa3b08918228c95c9a0159c95546bae0d2e731e8a7c9b832234eefad5100"
+    },
+    {
+      "path": "LICENSE-DECISION.md",
+      "sha256": "1c2e71b79fe1f7e5805d07af4f8201e7461efca5d08f687a89263a9f67d1ac92"
+    }
+  ],
+  "signing": null,
+  "identity_envelope": null
+}

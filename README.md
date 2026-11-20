@@ -53,7 +53,7 @@ The mini tool works in the browser without sign-up, cookies, analytics, external
 1. Read the decision guide and official references.
 2. Use the mini tool to identify what needs clarification.
 3. Copy the questions you want to discuss and prepare a sanitised request.
-4. [Send a short LinkedIn enquiry](https://www.linkedin.com/in/manoj-rollo/) naming the guide, broad platform and decision ahead.
+4. [Send a short LinkedIn enquiry](https://www.linkedin.com/in/manoj-rollo/) with the platform, what is changing and the release decision you still need to make. Mention this guide if it helped frame the question.
 
 A first conversation can clarify the evidence question, its scope and whether a further engagement would be useful. Assessment, testing delivery or ongoing support can be scoped after that discussion; reading the guide does not promise an engagement or outcome. Never post client context or assessment requests in public issues.
 

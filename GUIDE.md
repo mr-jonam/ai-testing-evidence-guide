@@ -32,4 +32,12 @@ Changes to a model, retrieval content, instructions or connected tools can chang
 
 ## Read next
 
-Read [source status and retrieval limitations](SOURCES.md), try the local mini tool using the [README instructions](README.md#start-here), or [discuss the question on LinkedIn](https://www.linkedin.com/in/manoj-rollo/). A short, non-confidential outline is enough. Professional assessment or delivery is separately scoped. This guide does not assess a system or approve a release.
+Read [source status and retrieval limitations](SOURCES.md) or try the local mini tool using the [README instructions](README.md#start-here).
+
+## Discuss a QA assessment
+
+[Message me on LinkedIn](https://www.linkedin.com/in/manoj-rollo/) with the **platform, what is changing and the release decision you still need to make**. Mention this guide if it helped frame the question. A short, non-confidential outline is enough.
+
+> Example: We are adding policy answers to an AI assistant in our support portal. Before release, we need to decide whether answers with an unverified policy source must go to human review.
+
+We can discuss the scope of an assessment and a report on the available evidence, gaps and next steps.
